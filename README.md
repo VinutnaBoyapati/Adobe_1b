@@ -229,23 +229,7 @@ npm run lint
 - *Image Optimization*: Proper image formats and sizes
 - *Code Splitting*: Automatic chunk splitting for better loading
 
-## 🚀 Deployment
 
-### Netlify (Recommended)
-1. Connect your repository to Netlify
-2. Set build command: npm run build
-3. Set publish directory: dist
-4. Deploy automatically on push
-
-### Vercel
-1. Import project from Git repository
-2. Framework preset: Vite
-3. Build command: npm run build
-4. Output directory: dist
-
-### Manual Deployment
-bash
-npm run build
 # Upload dist/ folder to your hosting provider
 
 
